@@ -8,6 +8,7 @@ You can utilize project functionalities via the two main scripts present in the 
 ## channel_videos.py
 Given a csv file containing one column for channel ids, the script would find all related video ids and store them in a csv file located in the /data folder.
 Example:
+	
 	`python ./channel_videos.py ./channels.csv`
 
 ## video_comments.py
